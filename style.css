@@ -56,7 +56,7 @@ img {
 	line-height: 1.3;
 }
 .outer-wrapper {
-	background-color: #3776ad;
+	background-color: #ca4a0e;
 	padding: 6%;
 	padding-bottom: 92px;
 	text-align: center;
@@ -86,6 +86,7 @@ select {
 	background-size: cover;
 	box-shadow: 3px 6px 20px 0 rgba(0,0,0, .5);
 	padding-top: 58px;
+	text-align: center;
 }
 #greeting {
 	font-family: 'Boogaloo', cursive;
