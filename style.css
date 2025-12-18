@@ -78,7 +78,7 @@ select {
 	height: 36px;
 	padding-left: 0.5em;
 }
-#postcard {
+#madmad {
 	width: 280px;
 	height: 202px;
 	position: absolute;
@@ -88,7 +88,7 @@ select {
 	padding-top: 58px;
 	text-align: center;
 }
-#greeting {
+#mads {
 	font-family: 'Boogaloo', cursive;
 	text-align: center;
 	font-size: 19px;
@@ -135,17 +135,16 @@ footer p {
 	select {
 		width: 300px;
 	}
-	#postcard {
+	#madmad {
 		width: 406px;
-		height: 292px;
-		padding-top: 88px;
+		height: 392px;
+		padding: 20px 0px 20px 0px;;
+		
 	}
-	#greeting {
-		font-size: 28px;
+	#mads {
+		font-size: 17px;
 		margin-bottom: 2px;
-	}
-	#state-heading {
-		font-size: 50px;
+		display: none;
 	}
 	footer {
 		margin-top: 194px;
